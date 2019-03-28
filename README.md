@@ -16,4 +16,6 @@
 输入: [4,1,2,1,2]
 输出: 4
 ```
-[参考解法](./src/JavaScript/oneNum.js)
+参考解法
+[JavaScript](./src/JavaScript/oneNum.js)
+[GoLang](./src/GoLang/oneNum.js)
