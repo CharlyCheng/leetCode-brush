@@ -16,4 +16,4 @@
 输入: [4,1,2,1,2]
 输出: 4
 ```
-[参考解法](./src/JavaScript/oneMum.js)
+[参考解法](./src/JavaScript/oneNum.js)
